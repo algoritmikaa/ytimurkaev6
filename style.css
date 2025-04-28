@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+header a {
+    text-decoration: none;
+    padding: 3px;
+    color: blue;
+    background-color: white;
+    border-radius: 5px;
+}
+
+main h1 {
+    text-align: center;
+    background-color: lightblue;
+    color: blue;
+    padding: 10px;
+}
+
+footer p {
+    border:1px solid gray ;
+    padding: 5px;
+    
+}
+
+nav a {
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.iusuf {
+   border:3px solid blue ;
+   padding: 5px; 
+   border-radius: 15px;
+}
+
+h2 {
+    color: blue;
+}
+
+
+
+
+
